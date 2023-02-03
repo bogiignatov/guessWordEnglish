@@ -12,8 +12,8 @@
 
 You can play the game directly in your Web browser here:
 
-[<img alt="Play Button" src="https://github.com/bogiignatov/guessWordEnglish/blob/main/image.jpg />](https://replit.com/@bogiignatov/guessTheWord#index.html)
+[<img alt="Play Button" src="https://github.com/bogiignatov/guessWordEnglish/blob/main/image.jpg/>](https://replit.com/@bogiignatov/guessTheWord#index.html)
 
 Може да играете играта директно през вашия Уеб браузър тук:
 
-[<img alt="Play Button" src="https://github.com/bogiignatov/guessWordEnglish/blob/main/image.jpg />](https://replit.com/@bogiignatov/guessTheWord#index.html)
+[<img alt="Play Button" src="https://github.com/bogiignatov/guessWordEnglish/blob/main/image.jpg/>](https://replit.com/@bogiignatov/guessTheWord#index.html)
