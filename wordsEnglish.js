@@ -28,7 +28,7 @@ const wordList = [
     hint: "A mixture of several types of alcoholic drinks with sugar and fruit",
   },
   {
-    word: "pencil",
+    word: "sharpener",
     hint: "A tool with a hole and a knife for sharpening pencils",
   },
   {
