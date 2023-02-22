@@ -108,6 +108,15 @@ a{
   border-radius: 10px;
   margin-left: 20px;
 }
+
+.bg:hover{
+  background-color: #ff6348;
+}
+
+.en:hover{
+  background-color: #ff6348;
+}
+
 .wrapper h2{
   font-size: 23px;
   font-weight: 500;
